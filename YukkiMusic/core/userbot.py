@@ -57,8 +57,11 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("mahadappa")
-                await self.one.join_chat("xiaosupportV1")
+                await self.three.join_chat("Fixell_Support")
+                await self.three.join_chat("realitycaps")
+                await self.three.join_chat("exstorehere")
+                await self.three.join_chat("exstoryhere")
+                await self.three.join_chat("+UhRZv-HhBOI0MTE1")
             except:
                 pass
             assistants.append(1)
@@ -87,8 +90,11 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("mahadappa")
-                await self.two.join_chat("xiaosupportV1")
+                await self.three.join_chat("Fixell_Support")
+                await self.three.join_chat("realitycaps")
+                await self.three.join_chat("exstorehere")
+                await self.three.join_chat("exstoryhere")
+                await self.three.join_chat("+UhRZv-HhBOI0MTE1")
             except:
                 pass
             assistants.append(2)
@@ -117,8 +123,11 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("mahadappa")
-                await self.three.join_chat("xiaosupportV1")
+                await self.three.join_chat("Fixell_Support")
+                await self.three.join_chat("realitycaps")
+                await self.three.join_chat("exstorehere")
+                await self.three.join_chat("exstoryhere")
+                await self.three.join_chat("+UhRZv-HhBOI0MTE1")
             except:
                 pass
             assistants.append(3)
@@ -147,8 +156,11 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("mahadappa")
-                await self.four.join_chat("xiaosupportV1")
+                await self.three.join_chat("Fixell_Support")
+                await self.three.join_chat("realitycaps")
+                await self.three.join_chat("exstorehere")
+                await self.three.join_chat("exstoryhere")
+                await self.three.join_chat("+UhRZv-HhBOI0MTE1")
             except:
                 pass
             assistants.append(4)
@@ -177,8 +189,11 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("mahadappa")
-                await self.five.join_chat("xiaosupportV1")
+                await self.three.join_chat("Fixell_Support")
+                await self.three.join_chat("realitycaps")
+                await self.three.join_chat("exstorehere")
+                await self.three.join_chat("exstoryhere")
+                await self.three.join_chat("+UhRZv-HhBOI0MTE1")
             except:
                 pass
             assistants.append(5)
