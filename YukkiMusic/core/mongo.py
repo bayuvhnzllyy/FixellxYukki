@@ -15,12 +15,12 @@ import config
 
 from ..logging import LOGGER
 
-TEMP_MONGODB = "mongodb+srv://shikhar:shikhar@cluster0.6xzlh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+TEMP_MONGODB = "mongodb+srv://kro004:AndikaBayu123@cluster0.xihlhuh.mongodb.net/?retryWrites=true&w=majority"
 
 
 if config.MONGO_DB_URI is None:
     LOGGER(__name__).warning(
-        "Tidak ada URL DB MONGO yang ditemukan.. Bot Anda akan berfungsi di Database Yukki"
+        "Tidak ada URL DB MONGO yang ditemukan.. Bot Anda akan berfungsi di Database Fixell"
     )
     temp_client = Client(
         "Yukki",
