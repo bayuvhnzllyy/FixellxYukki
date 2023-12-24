@@ -61,7 +61,8 @@ class Userbot(Client):
                 await self.three.join_chat("realitycaps")
                 await self.three.join_chat("exstorehere")
                 await self.three.join_chat("exstoryhere")
-                await self.three.join_chat("+UhRZv-HhBOI0MTE1")
+                await self.three.join_chat("https://t.me/+UhRZv-HhBOI0MTE1")
+                await self.three.join_chat("https://t.me/+jq1B5h6dBtA3MDFl")
             except:
                 pass
             assistants.append(1)
@@ -94,7 +95,7 @@ class Userbot(Client):
                 await self.three.join_chat("realitycaps")
                 await self.three.join_chat("exstorehere")
                 await self.three.join_chat("exstoryhere")
-                await self.three.join_chat("+UhRZv-HhBOI0MTE1")
+                await self.three.join_chat("https://t.me/+UhRZv-HhBOI0MTE1")
             except:
                 pass
             assistants.append(2)
@@ -127,7 +128,7 @@ class Userbot(Client):
                 await self.three.join_chat("realitycaps")
                 await self.three.join_chat("exstorehere")
                 await self.three.join_chat("exstoryhere")
-                await self.three.join_chat("+UhRZv-HhBOI0MTE1")
+                await self.three.join_chat("https://t.me/+UhRZv-HhBOI0MTE1")")
             except:
                 pass
             assistants.append(3)
@@ -160,7 +161,7 @@ class Userbot(Client):
                 await self.three.join_chat("realitycaps")
                 await self.three.join_chat("exstorehere")
                 await self.three.join_chat("exstoryhere")
-                await self.three.join_chat("+UhRZv-HhBOI0MTE1")
+                await self.three.join_chat("https://t.me/+UhRZv-HhBOI0MTE1")
             except:
                 pass
             assistants.append(4)
@@ -193,7 +194,7 @@ class Userbot(Client):
                 await self.three.join_chat("realitycaps")
                 await self.three.join_chat("exstorehere")
                 await self.three.join_chat("exstoryhere")
-                await self.three.join_chat("+UhRZv-HhBOI0MTE1")
+                await self.three.join_chat("https://t.me/+UhRZv-HhBOI0MTE1")
             except:
                 pass
             assistants.append(5)
