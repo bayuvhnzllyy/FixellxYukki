@@ -51,7 +51,7 @@ ForcePlay Commands = playforce , vplayforce , cplayforce
 
 /playforce atau /vplayforce atau /cplayforce - Force Play menghentikan trek yang sedang diputar di obrolan suara dan mulai memutar trek yang dicari secara instan tanpa mengganggu/mengosongkan antrean.
 
-/channelplay [Nama pengguna atau id obrolan] atau [Disable] - Hubungkan saluran ke grup dan streaming musik di obrolan suara saluran dari grup Anda.
+/chplay [Nama pengguna atau id obrolan] atau [Disable] - Hubungkan saluran ke grup dan streaming musik di obrolan suara saluran dari grup Anda.
 
 
 ✅**<u>Bot's Server Playlists:</u>**
